@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3d7d82aa.chunk.css",
+    "main.js": "/static/js/main.d4755b31.chunk.js",
+    "main.js.map": "/static/js/main.d4755b31.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.35eb2b37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.35eb2b37.js.map",
+    "static/js/2.a36783fb.chunk.js": "/static/js/2.a36783fb.chunk.js",
+    "static/js/2.a36783fb.chunk.js.map": "/static/js/2.a36783fb.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.275c3a7817980d5a6da417955f1bd60d.js": "/precache-manifest.275c3a7817980d5a6da417955f1bd60d.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.3d7d82aa.chunk.css.map": "/static/css/main.3d7d82aa.chunk.css.map",
+    "static/js/2.a36783fb.chunk.js.LICENSE.txt": "/static/js/2.a36783fb.chunk.js.LICENSE.txt",
+    "static/media/Financial-services.jpg": "/static/media/Financial-services.a11eae95.jpg",
+    "static/media/aadhaar-cardp.webp": "/static/media/aadhaar-cardp.0bab2fda.webp",
+    "static/media/App.css": "/static/media/backg.5ad17221.png",
+    "static/media/educationser.jpeg": "/static/media/educationser.c7380c54.jpeg",
+    "static/media/jobaa.avif": "/static/media/jobaa.46e61ce8.avif",
+    "static/media/logoutkarsh.png": "/static/media/logoutkarsh.fcc1331e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35eb2b37.js",
+    "static/js/2.a36783fb.chunk.js",
+    "static/css/main.3d7d82aa.chunk.css",
+    "static/js/main.d4755b31.chunk.js"
+  ]
+}
